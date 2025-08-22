@@ -202,5 +202,5 @@ Basic checks performed:
 ## 🤝 About
 I’m **Prabhat Singh**, an aspiring Data Analyst.  
 If this helped you, ⭐ the repo and connect with me!# Excel
->🔗https://www.linkedin.com/in/prabhat-singh-a6a58132a/
+🔗 Linkedin :- https://www.linkedin.com/in/prabhat-singh-a6a58132a/
 
